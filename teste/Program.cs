@@ -6,7 +6,9 @@ namespace teste
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("abc".CompareTo("df"));
+
+            Console.ReadKey();
         }
     }
 }
